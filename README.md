@@ -9,13 +9,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: **EcoTrack** – A sustainability tracking app for individuals & businesses  
+
 - 🎯 Focused on: **AI, SaaS, MERN Stack, and Carbon Footprint Analytics**  
 - 🌱 Learning: **Advanced ML, LLMs, and Spring Boot**  
 - 💼 Open to freelance, internships & collaborations  
 - 🎓 Bachelor's of  CS from **BITS Pilani** 
-- 🧠 SIH 2024 Finalist (Expert Relevance Matching System)  
-- ✍️ Writing a research paper on **Stock Price Prediction using LSTM + LLM + Sentiment Analysis**  
+
 
 ---
 
@@ -41,10 +40,7 @@
 
 ### 🧩 Projects & Initiatives
 
-- 🟢 [**EcoTrack**](https://github.com/mukul7raj/ecotrack) – Environmental dashboard to track and reduce carbon footprints  
-- 🧠 [**Expert Relevance Matcher**](#) – SIH-selected tool to match interview boards with candidate profiles using NLP  
 - 📊 [**Stock Sentiment AI**](#) – Research project blending sentiment analysis, LSTM, and LLMs for stock forecasting  
-- 🌐 [**Resume Builder**](#) – MERN Stack web app with Google Auth and MongoDB backend  
 
 ---
 
