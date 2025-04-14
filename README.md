@@ -13,7 +13,7 @@
 - 🎯 Focused on: **AI, SaaS, MERN Stack, and Carbon Footprint Analytics**  
 - 🌱 Learning: **Advanced ML, LLMs, and Spring Boot**  
 - 💼 Open to freelance, internships & collaborations  
-- 🎓 BSc in CS from **BITS Pilani** | BTech in **AI & DS** (2025 - 2027)  
+- 🎓 Bachelor's of  CS from **BITS Pilani** 
 - 🧠 SIH 2024 Finalist (Expert Relevance Matching System)  
 - ✍️ Writing a research paper on **Stock Price Prediction using LSTM + LLM + Sentiment Analysis**  
 
