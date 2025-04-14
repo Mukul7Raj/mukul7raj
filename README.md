@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/mukul7raj"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:mukul7raj@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:onmyown643@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/mukul7raj"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>
 
