@@ -58,6 +58,10 @@
 </div>
 
 ---
+### leetcode stat
+
+<img src="https://leetcard.jacoblin.cool/onmyown643" alt="LeetCode Stats" />
+
 
 ### 🌐 Connect with Me
 
