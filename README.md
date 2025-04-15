@@ -1,6 +1,6 @@
 <!-- Wavy Hero Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=435&lines=Hey+there!+👋+I'm+Mukul+Raj;AI+%7C+ML+%7C+SaaS+Builder;Always+learning+new+things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=435&lines=Hey+there!+👋+I'm+Mukul;AI+%7C+ML+%7C+SaaS+Builder;Always+learning+new+things+🚀" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🚀 Computer Science Student | 💡 Innovator | 🧠 AI/ML Enthusiast | 🌱 Building cool stuff</h3>
