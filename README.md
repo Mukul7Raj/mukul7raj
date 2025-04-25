@@ -13,7 +13,7 @@
 - 🎯 Focused on: **AI, SaaS, MERN Stack, and Carbon Footprint Analytics**  
 - 🌱 Learning: **Advanced ML, LLMs, and Spring Boot**  
 - 💼 Open to freelance, internships & collaborations  
-- 🎓 Bachelor's of  CS from **BITS Pilani** 
+
 
 
 ---
