@@ -40,7 +40,8 @@
 
 ### 🧩 Projects & Initiatives
 
-- 📊 [**Stock Sentiment AI**](#) – Research project blending sentiment analysis, LSTM, and LLMs for stock forecasting  
+- 📊 [**Stock Sentiment AI**](#) – Research project blending sentiment analysis, LSTM, and LLMs for stock forecasting
+- [**808 automation](#)
 
 ---
 
