@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎯 Focused on: **AI, SaaS, MERN Stack, Ruby on Rails, and Carbon Footprint Analytics**  
+- 🎯 Focused on: **AI, SaaS, MERN Stack, Ruby on Rails, and Hospital Portal**  
 - 🌱 Learning: **Advanced ML, LLMs, and Ruby on Rails**  
 - 💼 Open to freelance, internships & collaborations  
 
