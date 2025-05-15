@@ -3,9 +3,7 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
 </p>
 
-<!-- 🎯 Typing Hero Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75990&center=true&width=500&lines=Hey+there!+👋+I'm+Mukul;AI+%7C+ML+%7C+SaaS+Otaku;Coding+%26+Chilling+with+Anime+⚡;Always+learning+new+things+🚀" />
+font=Fira+Code&size=30&pause=1000&color=F75990&center=true&width=500&lines=Hey+there!+👋+I'm+Mukul;AI+%7C+ML+%7C+SaaS+Otaku;Coding+%26+Chilling+with+Anime+⚡;Always+learning+new+things+🚀" />
 </p>
 
 <h3 align="center">💻 Computer Science Student | 💡 Innovator | 🧠 AI/ML Enthusiast | 🌱 Builder of Cool Things</h3>
