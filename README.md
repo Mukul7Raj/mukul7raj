@@ -1,24 +1,30 @@
-<!-- Wavy Hero Header -->
+<!-- 🌀 Animated Anime Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=435&lines=Hey+there!+👋+I'm+Mukul;AI+%7C+ML+%7C+SaaS+Builder;Always+learning+new+things+🚀">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
 </p>
 
-<h3 align="center">🚀 Computer Science Student | 💡 Innovator | 🧠 AI/ML Enthusiast | 🌱 Building cool stuff</h3>
+<!-- 🎯 Typing Hero Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75990&center=true&width=500&lines=Hey+there!+👋+I'm+Mukul;AI+%7C+ML+%7C+SaaS+Otaku;Coding+%26+Chilling+with+Anime+⚡;Always+learning+new+things+🚀" />
+</p>
+
+<h3 align="center">💻 Computer Science Student | 💡 Innovator | 🧠 AI/ML Enthusiast | 🌱 Builder of Cool Things</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎯 Focused on: **AI, SaaS, MERN Stack, Ruby on Rails, and Hospital Portal**  
-- 🌱 Learning: **Advanced ML, LLMs, and Ruby on Rails**  
-- 💼 Open to freelance, internships & collaborations  
+- 🎯 Focused on: **AI, SaaS, MERN Stack, Ruby on Rails, Hospital Portal**
+- 🌱 Currently Learning: **Advanced ML, LLMs, Ruby on Rails**
+- 🤝 Open to: **Freelance, Internships, and Collabs**
+- 🧠 Love Anime, Code, and Everything Between 🧬
 
 ---
 
 ### ⚙️ Tech Stack
 
 <div align="center">
-  
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -38,9 +44,9 @@
 
 ### 🧩 Projects & Initiatives
 
-- 📊 [**Stock Sentiment AI**](#) – Research project blending sentiment analysis, LSTM, and LLMs for stock forecasting  
-- 🏥 [**HospitalPortal**](https://github.com/Mukul7Raj/HospitalPortal) – A Ruby on Rails-based solution for hospital management and patient care  
-- 🤖 [**808 Automation**](#) – Automating processes with innovative tools for better productivity  
+- 📊 [**Stock Sentiment AI**](#) – Sentiment + LSTM + LLM-based stock predictor
+- 🏥 [**HospitalPortal**](https://github.com/Mukul7Raj/HospitalPortal) – Rails app for hospital & patient management
+- 🤖 [**808 Automation**](#) – Tools to automate workflows & boost productivity
 
 ---
 
@@ -55,35 +61,17 @@
 
 ---
 
-### 🧠 Ways to Visualize & Interact
+### 🐍 Contribution Snake
 
-Here are some cool ways you can explore my work and connect:
-
-- 🌐 **Live Demos** of select projects  
-  - [HospitalPortal](https://github.com/Mukul7Raj/HospitalPortal) (Try locally or fork it!)
-  - [Stock Sentiment AI](#) – Coming Soon...
-
-- 📹 **Video Walkthroughs**  
-  - Screen recordings and feature explanations will be shared on [YouTube](#) *(Coming soon)*
-
-- 📈 **Interactive Dashboards**  
-  - Integrated with MongoDB Charts, Plotly, or Chart.js  
-  - Real-time insights in SaaS and analytics projects
-
-- 💬 **Conversational Chatbots**  
-  - Powered by LLMs for expert matching, career coaching, and hospital support
-
-- 🧪 **APIs & Swagger Docs**  
-  - Test and interact with backend services via Postman collections or Swagger UI
-
-- 🗃️ **Try on Repl.it or CodeSandbox**  
-  - Lightweight versions available for direct browser-based testing
+![snake gif](https://github.com/mukul7raj/mukul7raj/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 🏆 LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/onmyown643" alt="LeetCode Stats" />
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/onmyown643" alt="LeetCode Stats" />
+</p>
 
 ---
 
@@ -97,4 +85,4 @@ Here are some cool ways you can explore my work and connect:
 
 ---
 
-> ✨ *“Code smart, build fast, change the world.”*
+> ✨ *“Code smart, build fast, change the world — and enjoy anime while you're at it.”*
