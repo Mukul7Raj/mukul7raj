@@ -1,6 +1,6 @@
 <!-- Wavy Hero Header with animated GIF -->
 <p align="center">
-  <img src="https://github.com/Mukul7Raj/mukul7raj/blob/main/handsign.gif" alt="Animated Hero" width="300" />
+  <img src="gif.gif" alt="Animated Hero" width="300" />
 </p>
 
 <h3 align="center">🚀 Computer Science Student | 💡 Innovator | 🧠 AI/ML Enthusiast | 🌱 Building cool stuff</h3>
