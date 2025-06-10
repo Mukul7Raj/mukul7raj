@@ -1,6 +1,6 @@
 <!-- Wavy Hero Header with animated GIF -->
 <p align="center">
-  <img src="gif.gif" alt="Animated Hero" width="858" />
+  <img src="gif.gif" alt="Animated Hero" width="848" />
 </p>
 
 <h3 align="center">🚀 Computer Science Student | 💡 Innovator | 🧠 AI/ML Enthusiast | 🌱 Building cool stuff</h3>
