@@ -9,8 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎯 Focused on: **AI, SaaS, MERN Stack, Ruby on Rails, and Hospital Portal**  
-- 🌱 Learning: **Advanced ML, LLMs, and Ruby on Rails**  
+ 
 - 💼 Open to freelance, internships & collaborations  
 
 ---
@@ -36,13 +35,9 @@
 
 ---
 
-### 🧩 Projects & Initiatives
 
-- 📊 [**Stock Sentiment AI**](#) – Research project blending sentiment analysis, LSTM, and LLMs for stock forecasting
-- 🏥 [**HospitalPortal**](https://github.com/Mukul7Raj/HospitalPortal) – A Ruby on Rails-based solution for hospital management and patient care.
-- 🤖 [**808 Automation**](#) – Automating processes with innovative tools for better productivity
 
----
+
 
 ### 📊 GitHub Stats
 
