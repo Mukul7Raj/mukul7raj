@@ -1,79 +1,30 @@
-<!-- HERO IMAGE -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995" width="100%" alt="banner" />
-</p>
+# My Project
 
-<h1 align="center">👨‍💻 Mukul</h1>
-<p align="center">
-  <strong>⚡ build fast • 🤖 think in AI • 🧠 learn daily</strong>
-</p>
+## Badges
 
----
+| Technology        | Badges |
+|-------------------|--------|
+| Java              | ![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white) |
+| Python            | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| C++               | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| NumPy             | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| Pandas            | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| scikit-learn      | ![Scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| TensorFlow        | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat-square&logo=tensorflow&logoColor=white) |
+| Node.js           | ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white) |
+| Express           | ![Express](https://img.shields.io/badge/Express-4B3E2A?style=flat-square&logo=express&logoColor=white) |
+| Git               | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| Docker            | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| Linux             | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
-## 🧠 About Me
+## GitHub Stats
 
-- ✨ CS student who prefers **building over talking**  
-- 🚀 Exploring **AI/ML + backend systems**  
-- 🎯 Passionate about hackathons, real-world impact, and clean code  
+![Mukul7Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukul7Raj&show_icons=true&theme=radical)  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukul7Raj&layout=compact&theme=radical)
 
----
+## AI/ML Focus
 
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| 💻 **Languages** | Java, Python, C++ |
-| 🤖 **AI/ML** | NumPy, Pandas, scikit-learn, TensorFlow |
-| 🌐 **Backend** | Node.js, Express |
-| ⚙️ **Tools** | Git, Docker, Linux |
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f" width="45%" alt="coding" />
-  <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c" width="45%" alt="development" />
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukul7Raj&theme=tokyo-night&hide_border=true" alt="activity graph" />
-</p>
-
----
-
-## 📈 Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukul7Raj&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukul7Raj&theme=tokyonight&hide_border=true" alt="github streak" />
-</p>
-
----
-
-## 🧪 Current Focus
-
-- 🧠 AI/ML projects
-- ⚙️ System design basics
-- 📈 DSA consistency
-
----
-
-## 🎮 Dev Loop
-
-```
-> run mukul.exe
-
-while(alive) {
-   learn();
-   build();
-   ship();
-}
-```
-
----
-
-## 🌐 Connect With Me
-
-- 🔗 **LinkedIn** → [linkedin.com/in/mukul-raj-057b28218/](https://www.linkedin.com/in/mukul-raj-057b28218/)
-- 💻 **GitHub** → [github.com/Mukul7Raj](https://github.com/Mukul7Raj)
+- **Machine Learning Models**  
+- **Data Analysis & Visualization**  
+- **Real-world AI Projects**  
+- **Problem Solving (DSA + ML)**
