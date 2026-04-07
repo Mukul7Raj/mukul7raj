@@ -1,46 +1,79 @@
-# Project Title
+<!-- HERO IMAGE -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995" width="100%" alt="banner" />
+</p>
 
-## Description
+<h1 align="center">👨‍💻 Mukul</h1>
+<p align="center">
+  <strong>⚡ build fast • 🤖 think in AI • 🧠 learn daily</strong>
+</p>
 
-This project aims to solve problems related to X, Y, and Z. It provides functionalities to ABC and helps users achieve DEF.
+---
 
-## Installation Instructions
+## 🧠 About Me
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/Mukul7Raj/mukul7raj.git
-   ```
-2. Navigate into the project directory:
-   ```
-   cd mukul7raj
-   ```
-3. Install the necessary dependencies:
-   ```
-   npm install
-   ```
+- ✨ CS student who prefers **building over talking**  
+- 🚀 Exploring **AI/ML + backend systems**  
+- 🎯 Passionate about hackathons, real-world impact, and clean code  
 
-## Usage
+---
 
-To start the project, run:
-```bash
-npm start
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| 💻 **Languages** | Java, Python, C++ |
+| 🤖 **AI/ML** | NumPy, Pandas, scikit-learn, TensorFlow |
+| 🌐 **Backend** | Node.js, Express |
+| ⚙️ **Tools** | Git, Docker, Linux |
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f" width="45%" alt="coding" />
+  <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c" width="45%" alt="development" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukul7Raj&theme=tokyo-night&hide_border=true" alt="activity graph" />
+</p>
+
+---
+
+## 📈 Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukul7Raj&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukul7Raj&theme=tokyonight&hide_border=true" alt="github streak" />
+</p>
+
+---
+
+## 🧪 Current Focus
+
+- 🧠 AI/ML projects
+- ⚙️ System design basics
+- 📈 DSA consistency
+
+---
+
+## 🎮 Dev Loop
+
+```
+> run mukul.exe
+
+while(alive) {
+   learn();
+   build();
+   ship();
+}
 ```
 
-## Contributing
+---
 
-Contributions are welcome! Please adhere to the following guidelines:
-1. Fork the repository.
-2. Create a feature branch.
-3. Submit a pull request.
+## 🌐 Connect With Me
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Authors
-
-- Mukul Raj
-
-## Contact
-
-For any inquiries, please reach out at: mukul@example.com
+- 🔗 **LinkedIn** → [linkedin.com/in/mukul-raj-057b28218/](https://www.linkedin.com/in/mukul-raj-057b28218/)
+- 💻 **GitHub** → [github.com/Mukul7Raj](https://github.com/Mukul7Raj)
