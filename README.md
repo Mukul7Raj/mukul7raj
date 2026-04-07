@@ -1,52 +1,46 @@
-<!-- HERO IMAGE -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995" width="100%" />
-</p>
+# Project Title
 
-<h1 align="center">👨‍💻 Mukul</h1>
-<p align="center">
-  ⚡ build fast • 🤖 think in AI • 🧠 learn daily
-</p>
+## Description
 
----
+This project aims to solve problems related to X, Y, and Z. It provides functionalities to ABC and helps users achieve DEF.
 
-## 🧠 about me
-✨ CS student who prefers **building over talking**  
-🚀 exploring **AI/ML + backend systems**  
-🎯 hackathons, real-world impact, clean code  
+## Installation Instructions
 
----
+1. Clone the repository:
+   ```
+   git clone https://github.com/Mukul7Raj/mukul7raj.git
+   ```
+2. Navigate into the project directory:
+   ```
+   cd mukul7raj
+   ```
+3. Install the necessary dependencies:
+   ```
+   npm install
+   ```
 
-## ⚙️ tech stack
-```txt
-💻 languages   → Java | Python | C++
-🤖 ai/ml       → NumPy | Pandas | scikit-learn | TensorFlow
-🌐 backend     → Node.js | Express
-🛠 tools       → Git | Docker | Linux
+## Usage
 
-<p align="center"> <img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f" width="45%" /> <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c" width="45%" /> </p>
+To start the project, run:
+```bash
+npm start
+```
 
-📊 activity graph ⚡
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukul7Raj&theme=tokyo-night&hide_border=true" /> </p>
+## Contributing
 
-📊 stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mukul7Raj&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukul7Raj&theme=tokyonight&hide_border=true" /> </p>
+Contributions are welcome! Please adhere to the following guidelines:
+1. Fork the repository.
+2. Create a feature branch.
+3. Submit a pull request.
 
-🧪 current focus
-🧠 AI/ML projects
-⚙️ system design basics
-📈 DSA consistency
+## License
 
-🎮 dev loop
-> run mukul.exe
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-while(alive){
-   learn();
-   build();
-   ship();
-}
-🌐 connect
-🔗 LinkedIn → https://www.linkedin.com/in/mukul-raj-057b28218/
-💻 GitHub → https://github.com/Mukul7Raj
+## Authors
 
+- Mukul Raj
 
+## Contact
+
+For any inquiries, please reach out at: mukul@example.com
