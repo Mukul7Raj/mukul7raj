@@ -1,38 +1,22 @@
+<!-- Header -->
+<h1 align="center">hey, i'm Mukul 👋</h1>
 <p align="center">
-  <img src="your-photo.png" width="120" style="border-radius: 50%;" />
-</p>
-
-## Mukul Raj
-
-<p align="center">
-AI/ML Developer • Building intelligent systems
+  building things with code • exploring AI/ML • shipping ideas
 </p>
 
 ---
 
-### Focus
-Machine Learning • Deep Learning • Backend Systems  
+### 🧠 about me
+- 🎓 CS student  
+- ⚡ vibe: build > talk  
+- 🤖 into AI/ML, backend, systems  
+- 🚀 hackathons + real-world projects  
 
 ---
 
-### Tech
-Python • TensorFlow • Scikit-learn • Node.js  
-
----
-
-### 🐍 Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mukul7raj/mukul7raj/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### Connect
-<p align="center">
-  <a href="mailto:onmyown643@gmail.com">Email</a> • 
-  <a href="https://github.com/mukul7raj">GitHub</a>
-</p>
-
----
-
-<sub align="center">Build smart. Ship fast.</sub>
+### ⚙️ tech stack
+```txt
+languages   → Java | Python | C++
+ai/ml       → NumPy | Pandas | scikit-learn | TensorFlow
+backend     → Node.js | Express
+tools       → Git | Docker | Linux
